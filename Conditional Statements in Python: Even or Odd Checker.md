@@ -23,7 +23,7 @@ else:
 
 <img width="632" height="226" alt="image" src="https://github.com/user-attachments/assets/f4c90360-6290-47ff-afc2-ef8e07427e62" />
 
-<img width="497" height="200" alt="image" src="https://github.com/user-attachments/assets/0afa4276-c6c4-4e6b-a402-c0b8922d003d" />
+<img width="632" height="226" alt="image" src="https://github.com/user-attachments/assets/0afa4276-c6c4-4e6b-a402-c0b8922d003d" />
 
 
 ## Result
