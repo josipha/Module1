@@ -19,4 +19,4 @@ print('a')
 
 ## Result
 
-Thus,a Python program that prints the characters `'T'` and `'a'` using character literals.
+Thus,a Python program that prints the characters `'T'` and `'a'` using character literals is executed successfully.
