@@ -35,5 +35,5 @@ print("d:", d)
 
 ## Result
 
-Thus,a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
+Thus,a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` is executed successfully.
 
