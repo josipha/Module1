@@ -28,4 +28,4 @@ else:
 
 ## Result
 
-Thus,a Python program to check whether the given number is **even** or **odd** using `if...else` statements.is executed successfully
+Thus,a Python program to check whether the given number is **even** or **odd** using `if...else` statements is executed successfully
